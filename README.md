@@ -2,7 +2,7 @@
 
 
 **I am a passionate software developer dedicated to crafting innovative, efficient, and scalable solutions using modern technologies. With a strong foundation in both frontend and backend development, I thrive on turning ideas into real-world applications that solve problems and create impact..
-<br>
+<hr>
 
 Here are some ideas to get you started:
 
