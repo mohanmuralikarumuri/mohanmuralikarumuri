@@ -1,7 +1,7 @@
-## Hi there 👋
+👋Hello, I'm Mohan Murali Karumuri
 
 <!--
-**mohanmuralikarumuri/mohanmuralikarumuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a passionate software developer dedicated to crafting innovative, efficient, and scalable solutions using modern technologies. With a strong foundation in both frontend and backend development, I thrive on turning ideas into real-world applications that solve problems and create impact..
 
 Here are some ideas to get you started:
 
