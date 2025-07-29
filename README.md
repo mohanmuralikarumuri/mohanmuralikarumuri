@@ -1,6 +1,6 @@
 👋Hello, I'm Mohan Murali Karumuri
 
-<!--
+
 **I am a passionate software developer dedicated to crafting innovative, efficient, and scalable solutions using modern technologies. With a strong foundation in both frontend and backend development, I thrive on turning ideas into real-world applications that solve problems and create impact..
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
