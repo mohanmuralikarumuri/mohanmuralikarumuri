@@ -1,13 +1,13 @@
-<h1>👋Hello, I'm Mohan Murali Karumuri <h1>
+<h1>👋Hello, I'm Mohan Murali Karumuri </h1>
 
 
   I am a passionate software developer dedicated to crafting innovative, efficient, and scalable solutions using modern technologies. With a strong foundation in both frontend and backend development, I thrive on turning ideas into real-world applications that solve problems and create impact..
 <hr>
 
-<h1>About me<h1>
+<h1>About me</h1>
 <hr>
 
-### <h2>Languages & Frameworks<h2>
+### <h2>Languages & Frameworks</h2>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -17,7 +17,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 <hr>
-###<h2> Tools & Platforms<h2>
+###<h2> Tools & Platforms</h2>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
