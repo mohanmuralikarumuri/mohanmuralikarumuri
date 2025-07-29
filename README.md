@@ -3,8 +3,10 @@
 
 **I am a passionate software developer dedicated to crafting innovative, efficient, and scalable solutions using modern technologies. With a strong foundation in both frontend and backend development, I thrive on turning ideas into real-world applications that solve problems and create impact..
 <hr>
-About me
+
+<h2>About me<h2>
 <hr>
+
 ### Languages & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
