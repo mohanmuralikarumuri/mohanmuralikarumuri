@@ -5,6 +5,11 @@
 <hr>
 
 <h1>About me</h1>
+<ul>
+  <li>🎓Bachelor of Technology - Computer Science Engineering</li>
+  <li>📚 Currently enhancing my skills in DSA, Docker, and DevOps tools </li>
+  <li>🤖 Exploring AI-powered automation and chatbot projects using openAI and prompt engineering</li>
+</ul>
 <hr>
 
 ### <h2>Languages & Frameworks</h2>
